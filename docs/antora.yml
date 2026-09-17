@@ -1,5 +1,5 @@
-name: equivalence-rules-filesystem
+name: tools
+title: Tools
 version: ~
-title: Filesystem Mappings
 nav:
-  - modules/ROOT/nav.adoc
+- modules/equivalence-rules-filesystem/nav.adoc
